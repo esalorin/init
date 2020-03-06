@@ -1,0 +1,2 @@
+ssh esalorin@<ip-address>
+# to find ip-address of your vm run [hostname --ip-address | cut -d ' ' -f2]

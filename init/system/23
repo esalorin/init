@@ -1,0 +1,5 @@
+login to VM with your username and password
+
+in terminal if you want root access write "su" and root password
+
+with command "ssh user@ip.address" you can connect via ssh, username and ip-address are for server you want to connect to

@@ -1,0 +1,2 @@
+kill <pid>
+# ps aux | grep ssh

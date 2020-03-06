@@ -1,0 +1,1 @@
+route -n get default | grep gateway | rev | cut -d ' ' -f 1 | rev
