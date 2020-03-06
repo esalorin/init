@@ -1,0 +1,2 @@
+# init
+Learn linux commands
